@@ -1,0 +1,23 @@
+.login-background{
+    padding-top: 0rem;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.banner-login img{
+    width: 50rem;
+    position:inherit;
+}
+.formulario-login h2 {
+    font-size: 4rem;
+}
+.formulario-login span {
+    font-size: 2.5rem;
+}
+.formulario {
+    width: 40rem;
+}
+.formulario__label {
+    font-size: var(--size-h3);
+    margin-bottom: 3rem;
+}
